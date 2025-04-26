@@ -1,7 +1,6 @@
 # Cześć! 👋
 
-Jestem **Michalina** i studiuję matematykę stosowaną na Politechnice Łódzkiej.  
-Interesuję się praktycznym zastosowaniem matematyki w analizie danych oraz uczeniem maszynowym.
+Jestem **Michalina** i studiuję matematykę stosowaną na Politechnice Łódzkiej. Interesuję się praktycznym zastosowaniem matematyki w analizie danych oraz uczeniem maszynowym.
 
 ---
 
